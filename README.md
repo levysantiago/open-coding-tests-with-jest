@@ -1,0 +1,1 @@
+[![Coverage CI](https://github.com/levysantiago/open-coding-tests-with-jest/actions/workflows/coverage.yml/badge.svg)](https://github.com/levysantiago/open-coding-tests-with-jest/actions/workflows/coverage.yml)
